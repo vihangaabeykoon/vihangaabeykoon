@@ -22,7 +22,7 @@ Passionate about building modern web applications, scalable backend systems, and
 <li> Looking to collaborate on <b>Full Stack & Open Source Projects</b></li>
 <li> Seeking help with <b>Cloud Deployment and System Architecture</b></li>
 <li> Ask me about <b>React, Node.js, Laravel, MongoDB, MySQL, WordPress & GSAP</b></li>
-<li> Reach me at <b>your-email@gmail.com</b></li>
+<li> Reach me at <b>hirushan199904@gmail.com</b></li>
 <li> Fun Fact: <b>I enjoy turning ideas into real-world digital products.</b></li>
 </ul>
 
