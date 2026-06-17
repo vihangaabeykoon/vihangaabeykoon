@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vihanga Abeykoon</h1>
+<h1 align="center">Hi, I'm Vihanga Abeykoon</h1>
 
 <h3 align="center">
 Full Stack Developer • UI/UX Enthusiast • Digital Marketer
@@ -6,10 +6,6 @@ Full Stack Developer • UI/UX Enthusiast • Digital Marketer
 
 <p align="center">
 Passionate about building modern web applications, scalable backend systems, and engaging digital experiences.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=vihangaabeykoon&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <hr>
@@ -31,16 +27,16 @@ Passionate about building modern web applications, scalable backend systems, and
 <h2>🌐 Connect With Me</h2>
 
 <p>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/Vihanga Abeykoon" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
 
 <a href="https://instagram.com/vihanga_abeykoon" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
 
-<a href="https://facebook.com/YOUR-FACEBOOK" target="_blank">
+<a href="https://facebook.com/Vihanga Abeykoon" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="45"/></a>
 
-<a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+<a href="https://twitter.com/AbeykoonVihanga" target="_blank">
 <img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
 </p>
 
@@ -120,7 +116,7 @@ Passionate about building modern web applications, scalable backend systems, and
 <h2> Support Me</h2>
 
 <p>
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+<a href="https://www.buymeacoffee.com/Vihanga Abeykoon">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
 </a>
 </p>
