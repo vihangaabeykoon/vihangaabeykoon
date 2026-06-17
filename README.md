@@ -32,20 +32,16 @@ Passionate about building modern web applications, scalable backend systems, and
 
 <p>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
 
 <a href="https://instagram.com/vihanga_abeykoon" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-</a>
+<img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
 
 <a href="https://facebook.com/YOUR-FACEBOOK" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="45"/>
-</a>
+<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="45"/></a>
 
 <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" width="45"/>
-</a>
+<img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
 </p>
 
 <hr>
